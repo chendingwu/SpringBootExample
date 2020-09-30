@@ -1,0 +1,13 @@
+# 数据源
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+    username: root
+    password: root
+
+#MyBatis
+mybatis:
+  mapper-locations: classpath:cn/cdw/mapper/*Mapper.xml  #指定Mapper映射文件位置
+  type-aliases-package: cn.cdw.pojo  #使用别名
+  #config-location:   #指定MyBatis核心配置文件

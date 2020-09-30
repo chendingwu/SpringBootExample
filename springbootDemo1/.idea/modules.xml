@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo/springbootDemo.iml" filepath="$PROJECT_DIR$/springbootDemo/springbootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo1/springbootDemo1.iml" filepath="$PROJECT_DIR$/springbootDemo1/springbootDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo10/springbootDemo10.iml" filepath="$PROJECT_DIR$/springbootDemo10/springbootDemo10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo11/springbootDemo11.iml" filepath="$PROJECT_DIR$/springbootDemo11/springbootDemo11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo12/springbootDemo12.iml" filepath="$PROJECT_DIR$/springbootDemo12/springbootDemo12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo13/springbootDemo13.iml" filepath="$PROJECT_DIR$/springbootDemo13/springbootDemo13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo14/springbootDemo14.iml" filepath="$PROJECT_DIR$/springbootDemo14/springbootDemo14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo15/springbootDemo15.iml" filepath="$PROJECT_DIR$/springbootDemo15/springbootDemo15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo16/springbootDemo16.iml" filepath="$PROJECT_DIR$/springbootDemo16/springbootDemo16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo2/springbootDemo2.iml" filepath="$PROJECT_DIR$/springbootDemo2/springbootDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo3/springbootDemo3.iml" filepath="$PROJECT_DIR$/springbootDemo3/springbootDemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo4/springbootDemo4.iml" filepath="$PROJECT_DIR$/springbootDemo4/springbootDemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo5/springbootDemo5.iml" filepath="$PROJECT_DIR$/springbootDemo5/springbootDemo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo6/springbootDemo6.iml" filepath="$PROJECT_DIR$/springbootDemo6/springbootDemo6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo7/springbootDemo7.iml" filepath="$PROJECT_DIR$/springbootDemo7/springbootDemo7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo8/springbootDemo8.iml" filepath="$PROJECT_DIR$/springbootDemo8/springbootDemo8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo9/springbootDemo9.iml" filepath="$PROJECT_DIR$/springbootDemo9/springbootDemo9.iml" />
+    </modules>
+  </component>
+</project>

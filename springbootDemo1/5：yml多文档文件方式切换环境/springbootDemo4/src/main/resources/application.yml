@@ -1,0 +1,26 @@
+---
+#开发环境
+server:
+  port: 8500
+  spring:
+  profiles: dev
+
+---
+#测试环境
+server:
+  port: 8600
+spring:
+  profiles: test
+
+---
+#生产环境
+server:
+  port: 8700
+spring:
+  profiles: pro
+---
+
+#激活环境
+spring:
+  profiles:
+    active: pro

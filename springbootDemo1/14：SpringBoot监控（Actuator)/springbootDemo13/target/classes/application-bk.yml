@@ -1,0 +1,10 @@
+management:
+  endpoint:
+    health:
+      show-details: always         #开启健康检查的完整信息
+  endpoints:
+    web:
+      exposure:
+        include: "*"   #将所有的监控endpoint暴露出来
+
+

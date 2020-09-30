@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "user1",
+      "type": "cn.cdw.application.User1",
+      "sourceType": "cn.cdw.application.User1"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user1.age",
+      "type": "java.lang.String",
+      "sourceType": "cn.cdw.application.User1"
+    },
+    {
+      "name": "user1.name",
+      "type": "java.lang.String",
+      "sourceType": "cn.cdw.application.User1"
+    }
+  ],
+  "hints": []
+}

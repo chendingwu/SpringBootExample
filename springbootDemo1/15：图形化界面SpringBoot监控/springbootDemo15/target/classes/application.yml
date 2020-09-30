@@ -1,0 +1,14 @@
+management:
+  endpoint:
+    health:
+      show-details: always         #开启健康检查的完整信息
+  endpoints:
+    web:
+      exposure:
+        include: "*"   #将所有的监控endpoint暴露出来
+
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:8100   #执行admin.server地址

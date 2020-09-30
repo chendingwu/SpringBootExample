@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6375e79-728a-4e98-8122-0ee644b2b909" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/run/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\run\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iB2T1krAmzcKj51ArNZqRvpgXJ" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springbootDemo15/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.cdw.controller" />
+      <recent name="cn.cdw.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootDemo1\springbootDemo15\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootDemo1\springbootDemo11\src\main\java\cn\cdw" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootDemo1\springbootDemo10\src\main\java\cn\cdw\pojo" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootDemo1\springbootDemo8\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootDemo1\springbootDemo3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootDemo15Application">
+    <configuration name="SpringbootDemo11Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootDemo11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cdw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cdw.SpringbootDemo11Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDemo12Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootDemo12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cdw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cdw.SpringbootDemo12Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDemo13Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootDemo13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cdw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cdw.SpringbootDemo13Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDemo14Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootDemo14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cdw.cn.cdw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cdw.cn.cdw.SpringbootDemo14Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDemo15Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootDemo15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cdw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cdw.SpringbootDemo15Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringbootDemo15Application" />
+        <item itemvalue="Spring Boot.SpringbootDemo14Application" />
+        <item itemvalue="Spring Boot.SpringbootDemo13Application" />
+        <item itemvalue="Spring Boot.SpringbootDemo12Application" />
+        <item itemvalue="Spring Boot.SpringbootDemo11Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6375e79-728a-4e98-8122-0ee644b2b909" name="Default Changelist" comment="" />
+      <created>1601366668304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601366668304</updated>
+      <workItem from="1601366669736" duration="846000" />
+      <workItem from="1601367540401" duration="265000" />
+      <workItem from="1601367832650" duration="9510000" />
+      <workItem from="1601382375981" duration="1129000" />
+      <workItem from="1601383530816" duration="4336000" />
+      <workItem from="1601387919721" duration="736000" />
+      <workItem from="1601428259826" duration="1387000" />
+      <workItem from="1601429794711" duration="381000" />
+      <workItem from="1601430200787" duration="8144000" />
+      <workItem from="1601441352678" duration="253000" />
+      <workItem from="1601441633566" duration="555000" />
+      <workItem from="1601442216863" duration="4805000" />
+      <workItem from="1601451604283" duration="101000" />
+      <workItem from="1601451733827" duration="2031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

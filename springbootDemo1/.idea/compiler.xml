@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootDemo16" />
+        <module name="springbootDemo15" />
+        <module name="springbootDemo14" />
+        <module name="springbootDemo13" />
+        <module name="springbootDemo12" />
+        <module name="springbootDemo11" />
+        <module name="springbootDemo10" />
+        <module name="springbootDemo" />
+        <module name="springbootDemo9" />
+        <module name="springbootDemo8" />
+        <module name="springbootDemo7" />
+        <module name="springbootDemo6" />
+        <module name="springbootDemo5" />
+        <module name="springbootDemo4" />
+        <module name="springbootDemo3" />
+        <module name="springbootDemo2" />
+        <module name="springbootDemo1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springBootDemo" target="1.8" />
+      <module name="springbootDemo" target="1.8" />
+      <module name="springbootDemo1" target="1.8" />
+      <module name="springbootDemo10" target="1.8" />
+      <module name="springbootDemo11" target="1.8" />
+      <module name="springbootDemo12" target="1.8" />
+      <module name="springbootDemo13" target="1.8" />
+      <module name="springbootDemo14" target="1.8" />
+      <module name="springbootDemo15" target="1.8" />
+      <module name="springbootDemo16" target="1.8" />
+      <module name="springbootDemo2" target="1.8" />
+      <module name="springbootDemo3" target="1.8" />
+      <module name="springbootDemo4" target="1.8" />
+      <module name="springbootDemo5" target="1.8" />
+      <module name="springbootDemo6" target="1.8" />
+      <module name="springbootDemo7" target="1.8" />
+      <module name="springbootDemo8" target="1.8" />
+      <module name="springbootDemo9" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springBootDemo" options="-parameters" />
+      <module name="springbootDemo" options="-parameters" />
+      <module name="springbootDemo1" options="-parameters" />
+      <module name="springbootDemo10" options="-parameters" />
+      <module name="springbootDemo11" options="-parameters" />
+      <module name="springbootDemo12" options="-parameters" />
+      <module name="springbootDemo13" options="-parameters" />
+      <module name="springbootDemo14" options="-parameters" />
+      <module name="springbootDemo15" options="-parameters" />
+      <module name="springbootDemo16" options="-parameters" />
+      <module name="springbootDemo2" options="-parameters" />
+      <module name="springbootDemo3" options="-parameters" />
+      <module name="springbootDemo4" options="-parameters" />
+      <module name="springbootDemo5" options="-parameters" />
+      <module name="springbootDemo6" options="-parameters" />
+      <module name="springbootDemo7" options="-parameters" />
+      <module name="springbootDemo8" options="-parameters" />
+      <module name="springbootDemo9" options="-parameters" />
+    </option>
+  </component>
+</project>

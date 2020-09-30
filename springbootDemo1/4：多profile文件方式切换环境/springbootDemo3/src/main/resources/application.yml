@@ -1,0 +1,4 @@
+#激活环境
+spring:
+  profiles:
+    active: pro  #指定了生产环境
